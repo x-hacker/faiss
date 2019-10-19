@@ -16,6 +16,7 @@
 
 #include <faiss/Index.h>
 #include <faiss/IndexBinary.h>
+#include <faiss/index_factory.h>
 
 namespace faiss {
 
